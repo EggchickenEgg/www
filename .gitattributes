@@ -1,0 +1,1 @@
+variants.maf filter=lfs diff=lfs merge=lfs -text
